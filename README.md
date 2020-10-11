@@ -15,8 +15,8 @@
 * Foundation
 
 # SnapShots 📸
-![Untitled design-4](https://github.com/Harsh4601/AR-3D-Cards/blob/main/Ben%2010%203D%20Cards/ss1.png)
-![Untitled design-4](https://github.com/Harsh4601/AR-3D-Cards/blob/main/Ben%2010%203D%20Cards/ss2.png)
+![Untitled design-4](https://github.com/Harsh4601/AR-3D-Cards/blob/main/Ben%2010%203D%20Cards/ss1%20new.png)
+![Untitled design-4](https://github.com/Harsh4601/AR-3D-Cards/blob/main/Ben%2010%203D%20Cards/ss2%20new.png)
 
 # Characters 👾
 > This might remind you of your childhood memories 😄
