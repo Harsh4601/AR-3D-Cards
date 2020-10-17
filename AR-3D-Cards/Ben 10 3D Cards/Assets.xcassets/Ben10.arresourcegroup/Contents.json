@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "cannonbolt-card.arreferenceimage"
+    },
+    {
+      "filename" : "fourarms-card.arreferenceimage"
+    },
+    {
+      "filename" : "ghostfreak-card.arreferenceimage"
+    },
+    {
+      "filename" : "greymatter-card.arreferenceimage"
+    },
+    {
+      "filename" : "swampfire-card.arreferenceimage"
+    },
+    {
+      "filename" : "upgrade-card.arreferenceimage"
+    },
+    {
+      "filename" : "vilgax-card.arreferenceimage"
+    },
+    {
+      "filename" : "xlr8-card.arreferenceimage"
+    }
+  ]
+}
